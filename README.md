@@ -1,4 +1,5 @@
 # music-app
+This is an app which uses Spotify API and making with VueJS (in process)
 
 ## Project setup
 ```
